@@ -297,8 +297,8 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="电影" tvg-name="彷徨之刃" tvg-logo="https://live.fanmingming.com/tv/电影.png" group-title="测试频道",电影 彷徨之刃
-https://svipsvip.ffzy-online5.com/20240611/28509_5744271b/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-id="电影" tvg-name="2024电影" tvg-logo="https://live.fanmingming.com/tv/电影.png" group-title="2024电影",电影 无名之火
+https://raw.gitcode.com/zw9346/01/raw/main/move.m3u
 #EXTINF:-1 tvg-id="电影" tvg-name="老家伙28" tvg-logo="https://live.fanmingming.com/tv/电影.png" group-title="测试频道",电影 老家伙28
 https://vod.lyhuicheng.com/20240528/01YTnF9j/2291kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="电影" tvg-name="我和我班主任的故事" tvg-logo="https://live.fanmingming.com/tv/电影.png" group-title="测试频道",电影 我和我班主任的故事
